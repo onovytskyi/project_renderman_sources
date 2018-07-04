@@ -1,7 +1,6 @@
 ---
-title: "Project: Renderman"
+title: "Main"
 date: 2018-07-04T21:35:06+03:00
-draft: true
 ---
 
 # Project: Renderman

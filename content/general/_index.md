@@ -6,7 +6,7 @@ chapter = true
 pre = "<b>1. </b>"
 +++
 
-### Part 1
+### Section 1
 
 # General
 

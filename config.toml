@@ -3,5 +3,10 @@ languageCode = "en-us"
 title = "Project: Renderman"
 theme = "hugo-theme-learn"
 
+[params]
+author = "Oleksandr Novytskyi"
+showVisitedLinks = true
+themeVariant = "renderman"
+
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
