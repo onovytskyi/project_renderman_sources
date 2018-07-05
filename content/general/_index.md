@@ -10,6 +10,6 @@ pre = "<b>1. </b>"
 
 # General
 
-All general stuff that can be useful even outside rendering. 
+Common things that can be usable even outside of the rendering world. 
 
-Still most of the info have rendering in mind.
+Still can contain render-specific context.
