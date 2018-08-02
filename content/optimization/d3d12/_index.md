@@ -9,7 +9,7 @@ weight = 5
 
 GDC2016 talk about D3D12 related performance tips by AMD.
 
-{{% button href="http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/GDC_2016_D3D12_Right_On_Queue_final.pdf" icon="fa fa-file" %}}Presentation{{% /button %}}
+{{% button href="http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/GDC_2016_D3D12_Right_On_Queue_final.pdf" icon="fa fa-file-pdf" %}}Presentation{{% /button %}}
 
 {{% button href="https://web.archive.org/web/http://32ipi028l5q82yhj72224m8j.wpengine.netdna-cdn.com/wp-content/uploads/2016/03/GDC_2016_D3D12_Right_On_Queue_final.pdf" icon="fa fa-archive" %}}Presentation{{% /button %}}
 

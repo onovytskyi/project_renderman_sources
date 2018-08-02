@@ -8,7 +8,7 @@ weight = 10
 
 Official NVIDIA whitepaper about Fermi architecture.
 
-{{% button href="http://www.hardwarebg.com/b4k/files/nvidia_gf100_whitepaper.pdf" icon="fa fa-file" %}}Paper{{% /button %}}
+{{% button href="http://www.hardwarebg.com/b4k/files/nvidia_gf100_whitepaper.pdf" icon="fa fa-file-pdf" %}}Paper{{% /button %}}
 
 {{% button href="https://web.archive.org/web/http://www.hardwarebg.com/b4k/files/nvidia_gf100_whitepaper.pdf" icon="fa fa-archive" %}}Paper{{% /button %}}
 
@@ -18,7 +18,7 @@ Official NVIDIA whitepaper about Fermi architecture.
 
 Official NVIDIA whitepaper.
 
-{{% button href="http://www.nvidia.com/content/PDF/kepler/NVIDIA-Kepler-GK110-Architecture-Whitepaper.pdf" icon="fa fa-file" %}}Paper{{% /button %}}
+{{% button href="http://www.nvidia.com/content/PDF/kepler/NVIDIA-Kepler-GK110-Architecture-Whitepaper.pdf" icon="fa fa-file-pdf" %}}Paper{{% /button %}}
 
 {{% button href="https://web.archive.org/web/http://www.nvidia.com/content/PDF/kepler/NVIDIA-Kepler-GK110-Architecture-Whitepaper.pdf" icon="fa fa-archive" %}}Paper{{% /button %}}
 
@@ -28,7 +28,7 @@ Official NVIDIA whitepaper.
 
 Official NVIDIA whitepaper about Maxwell architecture.
 
-{{% button href="http://international.download.nvidia.com/geforce-com/international/pdfs/GeForce_GTX_980_Whitepaper_FINAL.PDF" icon="fa fa-file" %}}Paper{{% /button %}}
+{{% button href="http://international.download.nvidia.com/geforce-com/international/pdfs/GeForce_GTX_980_Whitepaper_FINAL.PDF" icon="fa fa-file-pdf" %}}Paper{{% /button %}}
 
 {{% button href="https://web.archive.org/web/http://international.download.nvidia.com/geforce-com/international/pdfs/GeForce_GTX_980_Whitepaper_FINAL.PDF" icon="fa fa-archive" %}}Paper{{% /button %}}
 

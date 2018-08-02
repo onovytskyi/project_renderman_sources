@@ -8,7 +8,7 @@ weight = 5
 
 Official AMD whitepaper.
 
-{{% button href="https://www.amd.com/Documents/GCN_Architecture_whitepaper.pdf" icon="fa fa-file" %}}Paper{{% /button %}}
+{{% button href="https://www.amd.com/Documents/GCN_Architecture_whitepaper.pdf" icon="fa fa-file-pdf" %}}Paper{{% /button %}}
 
 {{% button href="https://web.archive.org/web/https://www.amd.com/Documents/GCN_Architecture_whitepaper.pdf" icon="fa fa-archive" %}}Paper{{% /button %}}
 
@@ -18,7 +18,7 @@ Official AMD whitepaper.
 
 Official AMD whitepaper.
 
-{{% button href="https://radeon.com/_downloads/vega-whitepaper-11.6.17.pdf" icon="fa fa-file" %}}Paper{{% /button %}}
+{{% button href="https://radeon.com/_downloads/vega-whitepaper-11.6.17.pdf" icon="fa fa-file-pdf" %}}Paper{{% /button %}}
 
 {{% button href="https://web.archive.org/web/https://radeon.com/_downloads/vega-whitepaper-11.6.17.pdf" icon="fa fa-archive" %}}Paper{{% /button %}}
 
